@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(165, 165, 199);
+    margin: 0px;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+/* header */
+.h{
+    display: flex;
+    height: 57px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+#icon-img{
+    width: 108px;
+    margin-top: 18px;
+    margin-left: 80px;
+}
+ul ,li{
+    padding-left: 14px;
+    display: flex;
+    padding: 10px;
+    margin-top: -1px;
+}
+.nav{
+    height: 56px;
+    margin-left: 15px;
+}
+.a-tag-nav{
+    font-size: 13px;
+    color: rgb(17, 16, 16);
+    text-decoration: none;
+}
+.a-tag-nav:hover{
+    text-decoration: underline;
+}
+.right-nav{
+    width: 660px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(255, 255, 255);
+}
+.caption-right{
+    font-size: 13px;
+    color: rgb(17, 16, 16);
+    text-decoration: none;
+    display: flex;
+    margin-top: 15px;
+}
+.caption-right:hover{
+    text-decoration: underline;
+}
+.icon-size-serch{
+    width: 18px;
+    height: 19px;
+    margin-top: 16px;
+}
+.icon-size-cart{    
+    width: 18px;
+    height: 18px;
+    margin-top: 15px;
+}
+.icon-size-profile{
+    width: 35px;
+    height: 35px;
+    margin-top: 9px;
+}
+.div-right-icon{
+    width: 37px;
+}
+.div-right-icon-caption{
+    width: 110px;
+}
+/* section */

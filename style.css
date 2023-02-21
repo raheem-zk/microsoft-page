@@ -68,6 +68,65 @@ ul ,li{
     width: 37px;
 }
 .div-right-icon-caption{
+    display: flex;
     width: 110px;
 }
+
 /* section */
+
+.full-img{
+    display: flex;
+    background-image: url(https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-M365-Icon-Bounce-Word-Merch:VP4-1399x600);
+    width: 100%;
+    height: 580px;
+}
+.texts{
+    margin-top: 240px;
+    width: 400px;
+    height: 240px;
+    /* background-color: aqua; */
+    margin-left: 100px;
+}
+.micro-text{
+    font-size: 1.8125rem;
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.2;
+}
+.fff{
+    display: flex;
+}
+.text-one-person{
+    border: none;
+    background-color: #0067b8;
+    color: #fff!important;
+    font-family: inherit;
+    font-weight: 700;
+    padding: 10px;
+}
+.text-one-person:hover{
+    background-color: #0e7ace;
+
+}
+.a-tag-for-up{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    padding-left: 30px;
+}
+.a-tag-for-up:hover{
+    text-decoration: underline;
+}
+.a-tag-for-up-div{
+    display: flex;
+    margin-top: 8px;
+}
+.down-arow{
+    width: 10px;
+    padding-top: 22px;
+    padding-left: 5px;
+}
+.img-next-arrow{
+    padding: 6px;
+    width: 14px;
+}

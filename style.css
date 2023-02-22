@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(165, 165, 199);
+    background-color: rgb(255, 255, 255);
     margin: 0px;
     font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
@@ -129,4 +129,53 @@ ul ,li{
 .img-next-arrow{
     padding: 6px;
     width: 14px;
+}
+.parant-arrow{
+    margin-left: 618px;
+    display: flex;
+    /* align-items: center; */
+
+}
+.arrow{
+    margin-top: 25px;
+    width: 17px;
+    height: 17px;
+}
+.parant-ittems{
+    width: 850px;
+    margin-left: 245px;
+    display: flex;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+.img-pro{
+    padding: 85px;
+    font-weight: 500;
+    color: #0067b8;
+}
+.a-pro-a{
+    color: #0067b8;
+    font-weight: 500;
+    margin-top: -60px;
+    margin-left: 11px;
+}
+.a-pro{
+    color: #0067b8;
+    font-weight: 500;
+}
+.c{
+    margin-top: 25px;
+    margin-left: -2px;
+}
+.c-c{
+    margin-top: 25px;
+    margin-left: 28px;
+}
+.c-c-c{
+    margin-top: 25px;
+    margin-left: 53px;
+}
+.c-c-c-c{
+    margin-top: 25px;
+    margin-left: 98px;
 }
